@@ -1,0 +1,15 @@
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net8.0\Contact Manager Application.exe
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net8.0\Contact Manager Application.deps.json
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net8.0\Contact Manager Application.runtimeconfig.json
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net8.0\Contact Manager Application.dll
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net8.0\Contact Manager Application.pdb
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.AssemblyInfoInputs.cache
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.AssemblyInfo.cs
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.csproj.CoreCompileInputs.cache
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.sourcelink.json
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.dll
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\refint\Contact Manager Application.dll
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.pdb
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\Contact Manager Application.genruntimeconfig.cache
+D:\programming\Backend\C#\oop Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net8.0\ref\Contact Manager Application.dll
